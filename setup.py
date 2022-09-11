@@ -5,7 +5,7 @@ with open("README.md", "r", encoding = "utf-8") as f:
 
 __version__ = "0.0.0"
 
-REPO_NAME = "DEEPCNNCLASSIFIER"
+REPO_NAME = "deepcnnclassifier"
 AUTHOR_USER_NAME = "ajxpr"
 SRC_REPO = "deepClassifier"
 AUTHOR_EMAIL = "akshaj.piri@gmail.com"
