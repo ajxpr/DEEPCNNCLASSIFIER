@@ -14,4 +14,4 @@
 10. Update the dvc.yaml
 11. Run "dv repro" for running all stages in pipeline
 
-![]("https://raw.githubusercontent.com/ajxpr/deepcnnclassifier/main/images/Data%20Ingestion.png")
+![img]("https://raw.githubusercontent.com/ajxpr/deepcnnclassifier/main/images/Data%20Ingestion.png")
