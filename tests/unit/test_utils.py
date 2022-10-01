@@ -4,7 +4,6 @@ from pathlib import Path
 from box import ConfigBox
 from ensure.main import EnsureError
 
-
 class Test_read_yaml:
     yaml_files = [
         "tests/data/empty.yaml",
