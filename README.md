@@ -1,7 +1,6 @@
 # DEEP CNN CLASSIFIER PROJECT
 
 ## Workflow
-
 1. Update config.yaml
 2. Update secrets.yaml [Optional]
 3. Update params.yaml
